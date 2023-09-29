@@ -2,6 +2,12 @@
 
 ## Descrição do Projeto
 
+### Screenshot: Homepage
+
+![Homepage](/screenshots/1.png)
+
+_Figure 1: Homepage_
+
 Este projeto visa desenvolver um aplicativo de vendas utilizando a linguagem de programação Python em conjunto com o framework Kivy. O aplicativo será direcionado para a empresa HashTag, com foco em otimizar e facilitar os processos de vendas.
 
 ## Funcionalidades Principais
