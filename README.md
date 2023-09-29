@@ -21,8 +21,7 @@ Este projeto visa desenvolver um aplicativo de vendas utilizando a linguagem de 
 Certifique-se de ter o Python e as dependências necessárias instaladas:
 
 ```bash
-pip install kivy
-# Adicione outras dependências, se necessário
+pip install -r requirements.txt
 ```
 
 ## Como Executar o Aplicativo
