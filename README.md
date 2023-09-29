@@ -20,8 +20,6 @@ Este projeto visa desenvolver um aplicativo de vendas utilizando a linguagem de 
 
 - **Gestão de Clientes:** Possibilitará o cadastro e gerenciamento de clientes para uma abordagem personalizada.
 
-- **Relatórios e Estatísticas:** Oferecerá recursos para gerar relatórios e estatísticas de vendas para análise de desempenho.
-
 ## Requisitos de Instalação
 
 Certifique-se de ter o Python e as dependências necessárias instaladas:
