@@ -34,10 +34,4 @@ python main.py
 
 ## Contribuição
 
-Fique à vontade para contribuir com novas funcionalidades, correções de bugs ou melhorias na interface. Siga as diretrizes de contribuição no arquivo [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## Licença
-
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
-
-```
+Fique à vontade para contribuir com novas funcionalidades, correções de bugs ou melhorias na interface. Siga as diretrizes de contribuição.
